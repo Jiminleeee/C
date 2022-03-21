@@ -6,6 +6,6 @@ int main()
 	
 	returnData = scanf("%d %d", &number1, &number2);
 	
-	printf("반환 값 : %d", returnData);
+	printf("반환값 : %d", returnData);
 	return 0;
 }
