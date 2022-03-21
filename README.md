@@ -1,3 +1,3 @@
 # C
 
-Studying C
+Studying C++
